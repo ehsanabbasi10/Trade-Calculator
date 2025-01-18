@@ -42,6 +42,3 @@ The calculator automatically stores your last 10 calculations for reference.
 - Stop Loss (SL) = Live Price - (Live Price × 0.01) *(1% below entry)*
 - Take Profit (TP) = Live Price + (Live Price × 0.03) *(3% above entry)*
 
-## Installation
-
-1. Clone the repository:
